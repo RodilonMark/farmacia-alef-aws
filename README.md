@@ -22,6 +22,13 @@ Basta clicar nos links acima para abrir cada documento:
 - Relatório principal
 - Manuais e guias de apoio
 
+- ## 📊 Resultados Esperados
+- **Redução de custos operacionais** com menor necessidade de infraestrutura física.  
+- **Maior eficiência** nos processos internos da farmácia.  
+- **Escalabilidade** para acompanhar o crescimento do negócio sem grandes investimentos iniciais.  
+- **Automação de tarefas** que economizam tempo e aumentam a produtividade da equipe.
+
+
 
 ## 👨‍💻 Autor
 **Rodilon Mark Serra Lopes**
